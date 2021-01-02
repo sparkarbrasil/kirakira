@@ -3,6 +3,7 @@ Partículas no estilo Kira Kira para Spark AR Studio
 
 Este Patch foi melhorado por Spark AR Brasil com o intuito de facilitar a criação de filtros com partículas no estilo kira-kira.
 
+(Patch baseado em arquivos do Josh Beckwith)
 Para saber mais, siga o canal e nossas redes em
 
 www.youtube.com/sparkarbrasil
